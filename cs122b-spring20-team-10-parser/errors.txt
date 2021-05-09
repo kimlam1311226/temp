@@ -1,0 +1,620 @@
+Inconsistencies @ mains243.xml
+Invalid tag <year></year> @ <fid>: H7</fid>
+Invalid tag <year></year> @ <fid>: H8</fid>
+Invalid tag <year></year> @ <fid>: H9</fid>
+Duplicate entry from mains243.xml: Z0220
+Duplicate entry from mains243.xml: Z0230
+Duplicate entry from mains243.xml: Z0250
+Duplicate entry from mains243.xml: Z0270
+Invalid tag <year></year> @ <fid>: EvS5</fid>
+Duplicate entry from mains243.xml: FNm10
+Invalid tag <year></year> @ <fid>: LB9</fid>
+Duplicate entry from mains243.xml: OP13
+Invalid tag <year></year> @ <fid>: OW3</fid>
+Invalid tag <year></year> @ <fid>: OW9</fid>
+Duplicate entry from mains243.xml: PaJ2
+Duplicate entry from mains243.xml: MiG7
+Invalid tag <year></year> @ <fid>: VM7</fid>
+Invalid tag <year></year> @ <fid>: WS45</fid>
+Invalid tag <year></year> @ <fid>: FFH1o</fid>
+Duplicate entry from mains243.xml: NR1
+Invalid tag <year></year> @ <fid>: Z0402</fid>
+Invalid tag <year></year> @ <fid>: AS22</fid>
+Invalid tag <year></year> @ <fid>: AS32</fid>
+Invalid tag <year></year> @ <fid>: SS7</fid>
+Duplicate entry from mains243.xml: JaS13
+Invalid tag <year></year> @ <fid>: RHd2</fid>
+Duplicate entry from mains243.xml: KRu25
+Invalid tag <year></year> @ <fid>: IAv12</fid>
+Invalid tag <year></year> @ <fid>: JFr12</fid>
+Invalid tag <year></year> @ <fid>: MRr5</fid>
+Invalid tag <year></year> @ <fid>: MS0</fid>
+Invalid tag <year></year> @ <fid>: MS36</fid>
+Invalid tag <year></year> @ <fid>: RaK5</fid>
+Invalid tag <year></year> @ <fid>: WiW30</fid>
+Invalid tag <year></year> @ <fid>: DLy25</fid>
+Invalid tag <year></year> @ <fid>: GeM2</fid>
+Duplicate entry from mains243.xml: FOR12
+Duplicate entry from mains243.xml: PAl4
+Duplicate entry from mains243.xml: BLe5
+Duplicate entry from mains243.xml: KaK10
+Invalid tag <year></year> @ <fid>: AEy13</fid>
+Duplicate entry from mains243.xml: BS6
+Invalid tag <year></year> @ <fid>: CsS15</fid>
+Invalid tag <year></year> @ <fid>: TdC13</fid>
+Invalid tag <year></year> @ <fid>: Z9590</fid>
+Invalid tag <year></year> @ <fid>: AbK15</fid>
+Invalid tag <year></year> @ <fid>: DPs10</fid>
+Invalid tag <year></year> @ <fid>: MkJ11</fid>
+Invalid tag <year></year> @ <fid>: MJu15</fid>
+Error at: LMy (Invalid director)
+Duplicate entry from mains243.xml: NtB10
+Error at: TFd (Invalid director)
+Error at: JSx (Invalid director)
+Error at: MFo (Invalid director)
+Inconsistencies @ actors63.xml
+Duplicate in actors63.xml @ <stagename>Brooke Adams</stagename>, <dob>1949</dob>
+Duplicate in actors63.xml @ <stagename>Mario Adorf</stagename>, <dob>1930</dob>
+Duplicate in actors63.xml @ <stagename>Rati Agnihotri</stagename>, <dob>1960</dob>
+Duplicate in actors63.xml @ <stagename>Edward Albert</stagename>, <dob>1951</dob>
+Duplicate in actors63.xml @ <stagename>Alan Alda</stagename>, <dob>1936</dob>
+Duplicate in actors63.xml @ <stagename>John Alderton</stagename>, <dob>1940</dob>
+Duplicate in actors63.xml @ <stagename>Woody Allen</stagename>, <dob>1935</dob>
+Duplicate in actors63.xml @ <stagename>Richard Anderson</stagename>, <dob>1926</dob>
+Duplicate in actors63.xml @ <stagename>Ursula Andress</stagename>, <dob>1936</dob>
+Duplicate in actors63.xml @ <stagename>Fanny Ardant</stagename>, <dob>1949</dob>
+Duplicate in actors63.xml @ <stagename>Alan Arkin</stagename>, <dob>1934</dob>
+Duplicate in actors63.xml @ <stagename>Lucie Arnaz</stagename>, <dob>1951</dob>
+Duplicate in actors63.xml @ <stagename>Elizabeth Ashley</stagename>, <dob>1939</dob>
+Duplicate in actors63.xml @ <stagename>Fred Astaire</stagename>, <dob>1899</dob>
+Duplicate in actors63.xml @ <stagename>William Atherton</stagename>, <dob>1947</dob>
+Duplicate in actors63.xml @ <stagename>Christopher Atkins</stagename>, <dob>1961</dob>
+Duplicate in actors63.xml @ <stagename>Richard Attenborough</stagename>, <dob>1923</dob>
+Duplicate in actors63.xml @ <stagename>Charles Aznavour</stagename>, <dob>1924</dob>
+Duplicate in actors63.xml @ <stagename>Hank Azaria</stagename>, <dob>1964</dob>
+Duplicate in actors63.xml @ <stagename>Amitabh Bachchan</stagename>, <dob>1942</dob>
+Duplicate in actors63.xml @ <stagename>Josephine Baker</stagename>, <dob>1906</dob>
+Duplicate in actors63.xml @ <stagename>Jill Balcon</stagename>, <dob>1925</dob>
+Duplicate in actors63.xml @ <stagename>William Baldwin</stagename>, <dob>1963</dob>
+Duplicate in actors63.xml @ <stagename>Anne Bancroft</stagename>, <dob>1931</dob>
+Duplicate in actors63.xml @ <stagename>Antonio Banderas</stagename>, <dob>1960</dob>
+Duplicate in actors63.xml @ <stagename>Ellen Barkin</stagename>, <dob>1954</dob>
+Duplicate in actors63.xml @ <stagename>Kim Basinger</stagename>, <dob>1953</dob>
+Duplicate in actors63.xml @ <stagename>Angela Bassett</stagename>, <dob>1958</dob>
+Duplicate in actors63.xml @ <stagename>Ned Beatty</stagename>, <dob>1937</dob>
+Duplicate in actors63.xml @ <stagename>Warren Beatty</stagename>, <dob>1937</dob>
+Duplicate in actors63.xml @ <stagename>John Beck</stagename>, <dob>1943</dob>
+Duplicate in actors63.xml @ <stagename>Harry Belafonte</stagename>, <dob>1927</dob>
+Duplicate in actors63.xml @ <stagename>Tom Bell</stagename>, <dob>1933</dob>
+Duplicate in actors63.xml @ <stagename>Dirk Benedict</stagename>, <dob>1945</dob>
+Duplicate in actors63.xml @ <stagename>Hywel Bennett</stagename>, <dob>1944</dob>
+Duplicate in actors63.xml @ <stagename>Candice Bergen</stagename>, <dob>1946</dob>
+Duplicate in actors63.xml @ <stagename>Pat Boone</stagename>, <dob>1934</dob>
+Duplicate in actors63.xml @ <stagename>John Boorman</stagename>, <dob>1933</dob>
+Duplicate in actors63.xml @ <stagename>Tom Bosley</stagename>, <dob>1927</dob>
+Duplicate in actors63.xml @ <stagename>David Bowie</stagename>, <dob>1947</dob>
+Duplicate in actors63.xml @ <stagename>Bruce Boxleitner</stagename>, <dob>1950</dob>
+Duplicate in actors63.xml @ <stagename>Kenneth Branagh</stagename>, <dob>1960</dob>
+Duplicate in actors63.xml @ <stagename>Marlon Brando</stagename>, <dob>1924</dob>
+Duplicate in actors63.xml @ <stagename>Claude Brasseur</stagename>, <dob>1936</dob>
+Duplicate in actors63.xml @ <stagename>Beau Bridges</stagename>, <dob>1941</dob>
+Duplicate in actors63.xml @ <stagename>Jeff Bridges</stagename>, <dob>1949</dob>
+Duplicate in actors63.xml @ <stagename>James Brolin</stagename>, <dob>1940</dob>
+Duplicate in actors63.xml @ <stagename>Albert Brooks</stagename>, <dob>1947</dob>
+Duplicate in actors63.xml @ <stagename>Mel Brooks</stagename>, <dob>1926</dob>
+Duplicate in actors63.xml @ <stagename>Jim Brown</stagename>, <dob>1936</dob>
+Duplicate in actors63.xml @ <stagename>Carol Burnett</stagename>, <dob>1933</dob>
+Duplicate in actors63.xml @ <stagename>Ellen Burstyn</stagename>, <dob>1932</dob>
+Duplicate in actors63.xml @ <stagename>Gary Busey</stagename>, <dob>1944</dob>
+Duplicate in actors63.xml @ <stagename>Nicolas Cage</stagename>, <dob>1964</dob>
+Duplicate in actors63.xml @ <stagename>Michael Caine</stagename>, <dob>1933</dob>
+Duplicate in actors63.xml @ <stagename>Helena Bonham Carter</stagename>, <dob>1966</dob>
+Duplicate in actors63.xml @ <stagename>Veronica Cartwright</stagename>, <dob>1949</dob>
+Duplicate in actors63.xml @ <stagename>Johnny Cash</stagename>, <dob>1932</dob>
+Duplicate in actors63.xml @ <stagename>Seymour Cassel</stagename>, <dob>1935</dob>
+Duplicate in actors63.xml @ <stagename>Phoebe Cates</stagename>, <dob>1963</dob>
+Duplicate in actors63.xml @ <stagename>Adolfo Celi</stagename>, <dob>1922</dob>
+Duplicate in actors63.xml @ <stagename>Stockard Channing</stagename>, <dob>1944</dob>
+Duplicate in actors63.xml @ <stagename>Geraldine Chaplin</stagename>, <dob>1944</dob>
+Duplicate in actors63.xml @ <stagename>Sydney Chaplin</stagename>, <dob>1926</dob>
+Duplicate in actors63.xml @ <stagename>Cher</stagename>, <dob>1946</dob>
+Duplicate in actors63.xml @ <stagename>Julie Christie</stagename>, <dob>1940</dob>
+Duplicate in actors63.xml @ <stagename>John Cleese</stagename>, <dob>1939</dob>
+Duplicate in actors63.xml @ <stagename>Glenn Close</stagename>, <dob>1947</dob>
+Duplicate in actors63.xml @ <stagename>James Coburn</stagename>, <dob>1928</dob>
+Duplicate in actors63.xml @ <stagename>Jeff Conaway</stagename>, <dob>1950</dob>
+Duplicate in actors63.xml @ <stagename>Robert Conrad</stagename>, <dob>1935</dob>
+Duplicate in actors63.xml @ <stagename>Francis Ford Coppola</stagename>, <dob>1939</dob>
+Duplicate in actors63.xml @ <stagename>Roger Corman</stagename>, <dob>1926</dob>
+Duplicate in actors63.xml @ <stagename>Kevin Costner</stagename>, <dob>1955</dob>
+Duplicate in actors63.xml @ <stagename>Clotilde Courau</stagename>, <dob>1969</dob>
+Duplicate in actors63.xml @ <stagename>Tom Courtenay</stagename>, <dob>1937</dob>
+Duplicate in actors63.xml @ <stagename>Ronny Cox</stagename>, <dob>1938</dob>
+Duplicate in actors63.xml @ <stagename>Billy Crystal</stagename>, <dob>1948</dob>
+Duplicate in actors63.xml @ <stagename>Kieran Culkin</stagename>, <dob>1982</dob>
+Duplicate in actors63.xml @ <stagename>Robert Culp</stagename>, <dob>1930</dob>
+Duplicate in actors63.xml @ <stagename>Tim Curry</stagename>, <dob>1946</dob>
+Duplicate in actors63.xml @ <stagename>Jamie Lee Curtis</stagename>, <dob>1958</dob>
+Duplicate in actors63.xml @ <stagename>Roger Daltrey</stagename>, <dob>1944</dob>
+Duplicate in actors63.xml @ <stagename>Kim Darby</stagename>, <dob>1947</dob>
+Duplicate in actors63.xml @ <stagename>James Darren</stagename>, <dob>1936</dob>
+Duplicate in actors63.xml @ <stagename>Danielle Darrieux</stagename>, <dob>1917</dob>
+Duplicate in actors63.xml @ <stagename>Ossie Davis</stagename>, <dob>1917</dob>
+Duplicate in actors63.xml @ <stagename>Julie Delpy</stagename>, <dob>1969</dob>
+Duplicate in actors63.xml @ <stagename>Dom DeLuise</stagename>, <dob>1933</dob>
+Duplicate in actors63.xml @ <stagename>Judi Dench</stagename>, <dob>1934</dob>
+Duplicate in actors63.xml @ <stagename>Catherine Deneuve</stagename>, <dob>1943</dob>
+Duplicate in actors63.xml @ <stagename>Bruce Dern</stagename>, <dob>1936</dob>
+Duplicate in actors63.xml @ <stagename>Laura Dern</stagename>, <dob>1967</dob>
+Duplicate in actors63.xml @ <stagename>Marlene Dietrich</stagename>, <dob>1901</dob>
+Duplicate in actors63.xml @ <stagename>Phyllis Diller</stagename>, <dob>1917</dob>
+Duplicate in actors63.xml @ <stagename>Matt Dillon</stagename>, <dob>1964</dob>
+Duplicate in actors63.xml @ <stagename>Kirk Douglas</stagename>, <dob>1916</dob>
+Duplicate in actors63.xml @ <stagename>Brad Dourif</stagename>, <dob>1950</dob>
+Duplicate in actors63.xml @ <stagename>James Drury</stagename>, <dob>1934</dob>
+Duplicate in actors63.xml @ <stagename>Faye Dunaway</stagename>, <dob>1941</dob>
+Duplicate in actors63.xml @ <stagename>Griffin Dunne</stagename>, <dob>1955</dob>
+Duplicate in actors63.xml @ <stagename>Robert Duvall</stagename>, <dob>1931</dob>
+Duplicate in actors63.xml @ <stagename>Clint Eastwood</stagename>, <dob>1930</dob>
+Duplicate in actors63.xml @ <stagename>Blake Edwards</stagename>, <dob>1922</dob>
+Duplicate in actors63.xml @ <stagename>Lisa Eichhorn</stagename>, <dob>1952</dob>
+Duplicate in actors63.xml @ <stagename>Hector Elizondo</stagename>, <dob>1936</dob>
+Duplicate in actors63.xml @ <stagename>Sam Elliott</stagename>, <dob>1944</dob>
+Duplicate in actors63.xml @ <stagename>Michael Elphick</stagename>, <dob>1946</dob>
+Duplicate in actors63.xml @ <stagename>Peter Falk</stagename>, <dob>1927</dob>
+Duplicate in actors63.xml @ <stagename>Charles Farrell</stagename>, <dob>1901</dob>
+Duplicate in actors63.xml @ <stagename>Mia Farrow</stagename>, <dob>1945</dob>
+Duplicate in actors63.xml @ <stagename>Sherilyn Fenn</stagename>, <dob>1965</dob>
+Duplicate in actors63.xml @ <stagename>Sally Field</stagename>, <dob>1946</dob>
+Duplicate in actors63.xml @ <stagename>Frank Finlay</stagename>, <dob>1926</dob>
+Duplicate in actors63.xml @ <stagename>Albert Finney</stagename>, <dob>1936</dob>
+Duplicate in actors63.xml @ <stagename>Frances Fisher</stagename>, <dob>1952</dob>
+Duplicate in actors63.xml @ <stagename>Bridget Fonda</stagename>, <dob>1964</dob>
+Duplicate in actors63.xml @ <stagename>Jodie Foster</stagename>, <dob>1962</dob>
+Duplicate in actors63.xml @ <stagename>James Fox</stagename>, <dob>1939</dob>
+Duplicate in actors63.xml @ <stagename>Michael J. Fox</stagename>, <dob>1961</dob>
+Duplicate in actors63.xml @ <stagename>Dominic Frontiere</stagename>, <dob>1931</dob>
+Duplicate in actors63.xml @ <stagename>Greta Garbo</stagename>, <dob>1905</dob>
+Duplicate in actors63.xml @ <stagename>Allen Garfield</stagename>, <dob>1939</dob>
+Duplicate in actors63.xml @ <stagename>Beverly Garland</stagename>, <dob>1926</dob>
+Duplicate in actors63.xml @ <stagename>James Garner</stagename>, <dob>1928</dob>
+Duplicate in actors63.xml @ <stagename>Ben Gazzara</stagename>, <dob>1930</dob>
+Duplicate in actors63.xml @ <stagename>Judy Geeson</stagename>, <dob>1948</dob>
+Duplicate in actors63.xml @ <stagename>Richard Gere</stagename>, <dob>1949</dob>
+Duplicate in actors63.xml @ <stagename>Balthazar Getty</stagename>, <dob>1975</dob>
+Duplicate in actors63.xml @ <stagename>Giancarlo Giannini</stagename>, <dob>1942</dob>
+Duplicate in actors63.xml @ <stagename>Henry Gibson</stagename>, <dob>1935</dob>
+Duplicate in actors63.xml @ <stagename>Annie Girardot</stagename>, <dob>1931</dob>
+Duplicate in actors63.xml @ <stagename>Paul Michael Glaser</stagename>, <dob>1943</dob>
+Duplicate in actors63.xml @ <stagename>Jeff Goldblum</stagename>, <dob>1952</dob>
+Duplicate in actors63.xml @ <stagename>Colin Gordon</stagename>, <dob>1911</dob>
+Duplicate in actors63.xml @ <stagename>Elliott Gould</stagename>, <dob>1938</dob>
+Duplicate in actors63.xml @ <stagename>Harold Gould</stagename>, <dob>1923</dob>
+Duplicate in actors63.xml @ <stagename>Graham Greene</stagename>, <dob>1904</dob>
+Duplicate in actors63.xml @ <stagename>Pam Grier</stagename>, <dob>1949</dob>
+Duplicate in actors63.xml @ <stagename>Melanie Griffith</stagename>, <dob>1957</dob>
+Duplicate in actors63.xml @ <stagename>Charles Grodin</stagename>, <dob>1935</dob>
+Duplicate in actors63.xml @ <stagename>Gene Hackman</stagename>, <dob>1930</dob>
+Duplicate in actors63.xml @ <stagename>Harry Hamlin</stagename>, <dob>1951</dob>
+Duplicate in actors63.xml @ <stagename>Tom Hanks</stagename>, <dob>1956</dob>
+Duplicate in actors63.xml @ <stagename>Mark Harmon</stagename>, <dob>1951</dob>
+Duplicate in actors63.xml @ <stagename>Mariette Hartley</stagename>, <dob>1940</dob>
+Duplicate in actors63.xml @ <stagename>Rutger Hauer</stagename>, <dob>1944</dob>
+Duplicate in actors63.xml @ <stagename>Goldie Hawn</stagename>, <dob>1945</dob>
+Duplicate in actors63.xml @ <stagename>John Heard</stagename>, <dob>1946</dob>
+Duplicate in actors63.xml @ <stagename>Mariel Hemingway</stagename>, <dob>1961</dob>
+Duplicate in actors63.xml @ <stagename>David Hemmings</stagename>, <dob>1941</dob>
+Duplicate in actors63.xml @ <stagename>Justin Henry</stagename>, <dob>1971</dob>
+Duplicate in actors63.xml @ <stagename>Bernard Hepton</stagename>, <dob>1925</dob>
+Duplicate in actors63.xml @ <stagename>Dustin Hoffman</stagename>, <dob>1937</dob>
+Duplicate in actors63.xml @ <stagename>Bo Hopkins</stagename>, <dob>1942</dob>
+Duplicate in actors63.xml @ <stagename>Bob Hoskins</stagename>, <dob>1942</dob>
+Duplicate in actors63.xml @ <stagename>Helen Hunt</stagename>, <dob>1963</dob>
+Duplicate in actors63.xml @ <stagename>Holly Hunter</stagename>, <dob>1958</dob>
+Duplicate in actors63.xml @ <stagename>Elizabeth Hurley</stagename>, <dob>1965</dob>
+Duplicate in actors63.xml @ <stagename>John Hurt</stagename>, <dob>1940</dob>
+Duplicate in actors63.xml @ <stagename>William Hurt</stagename>, <dob>1950</dob>
+Duplicate in actors63.xml @ <stagename>Olivia Hussey</stagename>, <dob>1951</dob>
+Duplicate in actors63.xml @ <stagename>Anjelica Huston</stagename>, <dob>1951</dob>
+Duplicate in actors63.xml @ <stagename>Timothy Hutton</stagename>, <dob>1960</dob>
+Duplicate in actors63.xml @ <stagename>Jeremy Irons</stagename>, <dob>1948</dob>
+Duplicate in actors63.xml @ <stagename>Samuel L. Jackson</stagename>, <dob>1948</dob>
+Duplicate in actors63.xml @ <stagename>Derek Jacobi</stagename>, <dob>1938</dob>
+Duplicate in actors63.xml @ <stagename>Elton John</stagename>, <dob>1947</dob>
+Duplicate in actors63.xml @ <stagename>Freddie Jones</stagename>, <dob>1927</dob>
+Duplicate in actors63.xml @ <stagename>Shirley Jones</stagename>, <dob>1934</dob>
+Duplicate in actors63.xml @ <stagename>Tommy Lee Jones</stagename>, <dob>1946</dob>
+Duplicate in actors63.xml @ <stagename>Stacy Keach</stagename>, <dob>1941</dob>
+Duplicate in actors63.xml @ <stagename>Marthe Keller</stagename>, <dob>1945</dob>
+Duplicate in actors63.xml @ <stagename>Gary Kemp</stagename>, <dob>1959</dob>
+Duplicate in actors63.xml @ <stagename>George Kennedy</stagename>, <dob>1925</dob>
+Duplicate in actors63.xml @ <stagename>Margot Kidder</stagename>, <dob>1948</dob>
+Duplicate in actors63.xml @ <stagename>Nicole Kidman</stagename>, <dob>1967</dob>
+Duplicate in actors63.xml @ <stagename>Val Kilmer</stagename>, <dob>1959</dob>
+Duplicate in actors63.xml @ <stagename>Greg Kinnear</stagename>, <dob>1963</dob>
+Duplicate in actors63.xml @ <stagename>Kris Kristofferson</stagename>, <dob>1936</dob>
+Duplicate in actors63.xml @ <stagename>Burt Kwouk</stagename>, <dob>1930</dob>
+Duplicate in actors63.xml @ <stagename>Diane Lane</stagename>, <dob>1965</dob>
+Duplicate in actors63.xml @ <stagename>Jessica Lange</stagename>, <dob>1949</dob>
+Duplicate in actors63.xml @ <stagename>Louise Lasser</stagename>, <dob>1939</dob>
+Duplicate in actors63.xml @ <stagename>John Phillip Law</stagename>, <dob>1937</dob>
+Duplicate in actors63.xml @ <stagename>Cloris Leachman</stagename>, <dob>1926</dob>
+Duplicate in actors63.xml @ <stagename>Robert Loggia</stagename>, <dob>1930</dob>
+Duplicate in actors63.xml @ <stagename>Karina Lombard</stagename>, <dob>1969</dob>
+Duplicate in actors63.xml @ <stagename>Shirley MacLaine</stagename>, <dob>1934</dob>
+Duplicate in actors63.xml @ <stagename>Jena Malone</stagename>, <dob>1984</dob>
+Duplicate in actors63.xml @ <stagename>Patrick MacNee</stagename>, <dob>1922</dob>
+Duplicate in actors63.xml @ <stagename>Jane March</stagename>, <dob>1973</dob>
+Duplicate in actors63.xml @ <stagename>Jane March</stagename>, <dob>1973</dob>
+Duplicate in actors63.xml @ <stagename>James Marshall</stagename>, <dob>1967</dob>
+Duplicate in actors63.xml @ <stagename>Steve Martin</stagename>, <dob>1945</dob>
+Duplicate in actors63.xml @ <stagename>Anna Massey</stagename>, <dob>1937</dob>
+Duplicate in actors63.xml @ <stagename>Chiara Mastroianni</stagename>, <dob>1972</dob>
+Duplicate in actors63.xml @ <stagename>Elaine May</stagename>, <dob>1932</dob>
+Duplicate in actors63.xml @ <stagename>Malcolm McDowell</stagename>, <dob>1943</dob>
+Duplicate in actors63.xml @ <stagename>Ian McShane</stagename>, <dob>1942</dob>
+Duplicate in actors63.xml @ <stagename>Spike Milligan</stagename>, <dob>1918</dob>
+Duplicate in actors63.xml @ <stagename>Ron Moody</stagename>, <dob>1924</dob>
+Duplicate in actors63.xml @ <stagename>Terry Moore</stagename>, <dob>1929</dob>
+Duplicate in actors63.xml @ <stagename>Jeanne Moreau</stagename>, <dob>1928</dob>
+Duplicate in actors63.xml @ <stagename>Rita Moreno</stagename>, <dob>1931</dob>
+Duplicate in actors63.xml @ <stagename>Don Murray</stagename>, <dob>1929</dob>
+Duplicate in actors63.xml @ <stagename>James Naughton</stagename>, <dob>1945</dob>
+Duplicate in actors63.xml @ <stagename>Judd Nelson</stagename>, <dob>1959</dob>
+Duplicate in actors63.xml @ <stagename>Willie Nelson</stagename>, <dob>1933</dob>
+Duplicate in actors63.xml @ <stagename>Paul Newman</stagename>, <dob>1925</dob>
+Duplicate in actors63.xml @ <stagename>Jack Nicholson</stagename>, <dob>1937</dob>
+Duplicate in actors63.xml @ <stagename>Nick Nolte</stagename>, <dob>1941</dob>
+Duplicate in actors63.xml @ <stagename>Kim Novak</stagename>, <dob>1933</dob>
+Duplicate in actors63.xml @ <stagename>Gary Oldman</stagename>, <dob>1958</dob>
+Duplicate in actors63.xml @ <stagename>Per Oscarsson</stagename>, <dob>1927</dob>
+Duplicate in actors63.xml @ <stagename>Peter OToole</stagename>, <dob>1932</dob>
+Duplicate in actors63.xml @ <stagename>Frank Oz</stagename>, <dob>1944</dob>
+Duplicate in actors63.xml @ <stagename>Sarah Jessica Parker</stagename>, <dob>1965</dob>
+Duplicate in actors63.xml @ <stagename>Dolly Parton</stagename>, <dob>1946</dob>
+Duplicate in actors63.xml @ <stagename>Sean Penn</stagename>, <dob>1960</dob>
+Duplicate in actors63.xml @ <stagename>Bernadette Peters</stagename>, <dob>1948</dob>
+Duplicate in actors63.xml @ <stagename>Leslie Phillips</stagename>, <dob>1924</dob>
+Duplicate in actors63.xml @ <stagename>Michel Piccoli</stagename>, <dob>1925</dob>
+Duplicate in actors63.xml @ <stagename>Ronald Pickup</stagename>, <dob>1940</dob>
+Duplicate in actors63.xml @ <stagename>Marie-France Pisier</stagename>, <dob>1944</dob>
+Duplicate in actors63.xml @ <stagename>Joan Plowright</stagename>, <dob>1929</dob>
+Duplicate in actors63.xml @ <stagename>Roman Polanski</stagename>, <dob>1933</dob>
+Duplicate in actors63.xml @ <stagename>Sydney Pollack</stagename>, <dob>1934</dob>
+Duplicate in actors63.xml @ <stagename>Natalie Portman</stagename>, <dob>1981</dob>
+Duplicate in actors63.xml @ <stagename>Micheline Presle</stagename>, <dob>1922</dob>
+Duplicate in actors63.xml @ <stagename>Elvis Presley</stagename>, <dob>1935</dob>
+Duplicate in actors63.xml @ <stagename>Barry Primus</stagename>, <dob>1938</dob>
+Duplicate in actors63.xml @ <stagename>Jonathan Pryce</stagename>, <dob>1947</dob>
+Duplicate in actors63.xml @ <stagename>Anthony Quinn</stagename>, <dob>1915</dob>
+Duplicate in actors63.xml @ <stagename>Ronald Reagan</stagename>, <dob>1911</dob>
+Duplicate in actors63.xml @ <stagename>Lynn Redgrave</stagename>, <dob>1943</dob>
+Duplicate in actors63.xml @ <stagename>Vanessa Redgrave</stagename>, <dob>1937</dob>
+Duplicate in actors63.xml @ <stagename>Roger Rees</stagename>, <dob>1944</dob>
+Duplicate in actors63.xml @ <stagename>Carl Reiner</stagename>, <dob>1922</dob>
+Duplicate in actors63.xml @ <stagename>Burt Reynolds</stagename>, <dob>1936</dob>
+Duplicate in actors63.xml @ <stagename>Don Rickles</stagename>, <dob>1926</dob>
+Duplicate in actors63.xml @ <stagename>Leni Riefenstahl</stagename>, <dob>1902</dob>
+Duplicate in actors63.xml @ <stagename>Diana Rigg</stagename>, <dob>1938</dob>
+Duplicate in actors63.xml @ <stagename>John Ritter</stagename>, <dob>1948</dob>
+Duplicate in actors63.xml @ <stagename>Eric Roberts</stagename>, <dob>1956</dob>
+Duplicate in actors63.xml @ <stagename>Julia Roberts</stagename>, <dob>1967</dob>
+Duplicate in actors63.xml @ <stagename>Jean Rochefort</stagename>, <dob>1930</dob>
+Duplicate in actors63.xml @ <stagename>Mickey Rooney</stagename>, <dob>1920</dob>
+Duplicate in actors63.xml @ <stagename>Kurt Russell</stagename>, <dob>1951</dob>
+Duplicate in actors63.xml @ <stagename>Winona Ryder</stagename>, <dob>1971</dob>
+Duplicate in actors63.xml @ <stagename>Soupy Sales</stagename>, <dob>1926</dob>
+Duplicate in actors63.xml @ <stagename>Peter Sallis</stagename>, <dob>1921</dob>
+Duplicate in actors63.xml @ <stagename>Jennifer Salt</stagename>, <dob>1944</dob>
+Duplicate in actors63.xml @ <stagename>Adam Sandler</stagename>, <dob>1966</dob>
+Duplicate in actors63.xml @ <stagename>Chris Sarandon</stagename>, <dob>1942</dob>
+Duplicate in actors63.xml @ <stagename>Susan Sarandon</stagename>, <dob>1946</dob>
+Duplicate in actors63.xml @ <stagename>Fred Savage</stagename>, <dob>1976</dob>
+Duplicate in actors63.xml @ <stagename>Greta Scacchi</stagename>, <dob>1960</dob>
+Duplicate in actors63.xml @ <stagename>Arnold Schwarzenegger</stagename>, <dob>1947</dob>
+Duplicate in actors63.xml @ <stagename>Hanna Schygulla</stagename>, <dob>1943</dob>
+Duplicate in actors63.xml @ <stagename>Steven Seagal</stagename>, <dob>1952</dob>
+Duplicate in actors63.xml @ <stagename>George Segal</stagename>, <dob>1934</dob>
+Duplicate in actors63.xml @ <stagename>Jane Seymour</stagename>, <dob>1951</dob>
+Duplicate in actors63.xml @ <stagename>Tupac Shakur</stagename>, <dob>1971</dob>
+Duplicate in actors63.xml @ <stagename>Omar Sharif</stagename>, <dob>1932</dob>
+Duplicate in actors63.xml @ <stagename>William Shatner</stagename>, <dob>1931</dob>
+Duplicate in actors63.xml @ <stagename>Martin Sheen</stagename>, <dob>1940</dob>
+Duplicate in actors63.xml @ <stagename>Sam Shepard</stagename>, <dob>1943</dob>
+Duplicate in actors63.xml @ <stagename>Martin Short</stagename>, <dob>1950</dob>
+Duplicate in actors63.xml @ <stagename>Ron Silver</stagename>, <dob>1946</dob>
+Duplicate in actors63.xml @ <stagename>Tom Skerritt</stagename>, <dob>1933</dob>
+Duplicate in actors63.xml @ <stagename>Christian Slater</stagename>, <dob>1969</dob>
+Duplicate in actors63.xml @ <stagename>Lois Smith</stagename>, <dob>1930</dob>
+Duplicate in actors63.xml @ <stagename>Maggie Smith</stagename>, <dob>1934</dob>
+Duplicate in actors63.xml @ <stagename>Paul Sorvino</stagename>, <dob>1939</dob>
+Duplicate in actors63.xml @ <stagename>David Soul</stagename>, <dob>1943</dob>
+Duplicate in actors63.xml @ <stagename>Bud Spencer</stagename>, <dob>1929</dob>
+Duplicate in actors63.xml @ <stagename>Sylvester Stallone</stagename>, <dob>1946</dob>
+Duplicate in actors63.xml @ <stagename>John Standing</stagename>, <dob>1934</dob>
+Duplicate in actors63.xml @ <stagename>Maureen Stapleton</stagename>, <dob>1925</dob>
+Duplicate in actors63.xml @ <stagename>Rod Steiger</stagename>, <dob>1925</dob>
+Duplicate in actors63.xml @ <stagename>Andrew Stevens</stagename>, <dob>1955</dob>
+Duplicate in actors63.xml @ <stagename>Meryl Streep</stagename>, <dob>1949</dob>
+Duplicate in actors63.xml @ <stagename>Donald Sutherland</stagename>, <dob>1935</dob>
+Duplicate in actors63.xml @ <stagename>Dudley Sutton</stagename>, <dob>1933</dob>
+Duplicate in actors63.xml @ <stagename>Bo Svenson</stagename>, <dob>1941</dob>
+Duplicate in actors63.xml @ <stagename>Patrick Swayze</stagename>, <dob>1952</dob>
+Duplicate in actors63.xml @ <stagename>Jack Thompson</stagename>, <dob>1940</dob>
+Duplicate in actors63.xml @ <stagename>Rip Torn</stagename>, <dob>1931</dob>
+Duplicate in actors63.xml @ <stagename>John Travolta</stagename>, <dob>1954</dob>
+Duplicate in actors63.xml @ <stagename>Guinevere Turner</stagename>, <dob>1968</dob>
+Duplicate in actors63.xml @ <stagename>Beverly Tyler</stagename>, <dob>1924</dob>
+Duplicate in actors63.xml @ <stagename>Robert Vaughn</stagename>, <dob>1932</dob>
+Duplicate in actors63.xml @ <stagename>Jon Voight</stagename>, <dob>1938</dob>
+Duplicate in actors63.xml @ <stagename>Lindsay Wagner</stagename>, <dob>1949</dob>
+Duplicate in actors63.xml @ <stagename>Robert Wagner</stagename>, <dob>1930</dob>
+Duplicate in actors63.xml @ <stagename>Christopher Walken</stagename>, <dob>1943</dob>
+Duplicate in actors63.xml @ <stagename>Lesley Ann Warren</stagename>, <dob>1946</dob>
+Duplicate in actors63.xml @ <stagename>Craig Wasson</stagename>, <dob>1954</dob>
+Duplicate in actors63.xml @ <stagename>Sam Waterston</stagename>, <dob>1940</dob>
+Duplicate in actors63.xml @ <stagename>Emily Watson</stagename>, <dob>1967</dob>
+Duplicate in actors63.xml @ <stagename>Sigourney Weaver</stagename>, <dob>1949</dob>
+Duplicate in actors63.xml @ <stagename>Robin Williams</stagename>, <dob>1951</dob>
+Duplicate in actors63.xml @ <stagename>Vanessa Williams</stagename>, <dob>1963</dob>
+Duplicate in actors63.xml @ <stagename>Vanessa Williams</stagename>, <dob>1963</dob>
+Duplicate in actors63.xml @ <stagename>Fred Williamson</stagename>, <dob>1938</dob>
+Duplicate in actors63.xml @ <stagename>Scott Wilson</stagename>, <dob>1942</dob>
+Duplicate in actors63.xml @ <stagename>Kate Winslet</stagename>, <dob>1975</dob>
+Duplicate in actors63.xml @ <stagename>Elijah Wood</stagename>, <dob>1981</dob>
+Duplicate in actors63.xml @ <stagename>Michael York</stagename>, <dob>1942</dob>
+Inconsistencies @ casts124.xml: 
+Could not parse title or star name @ <f>ClC18</f> in casts124.xml
+Could not parse title or star name @ <f>DMl10</f> in casts124.xml
+Could not parse title or star name @ <f>H65</f> in casts124.xml
+Duplicate entry parsed from casts124.xml: (tt0500666, nm9429124)
+Duplicate entry parsed from casts124.xml: (tt0499644, nm9424506)
+Duplicate entry parsed from casts124.xml: (tt0499934, nm9423277)
+Duplicate entry parsed from casts124.xml: (tt0507549, nm0005679)
+Duplicate entry parsed from casts124.xml: (tt0504957, nm9424003)
+Duplicate entry parsed from casts124.xml: (tt0504958, nm9424389)
+Duplicate entry parsed from casts124.xml: (tt0506315, nm9423298)
+Duplicate entry parsed from casts124.xml: (tt0504316, nm0111185)
+Duplicate entry parsed from casts124.xml: (tt0503665, nm9429414)
+Duplicate entry parsed from casts124.xml: (tt0504851, nm0452288)
+Duplicate entry parsed from casts124.xml: (tt0504853, nm9423838)
+Duplicate entry parsed from casts124.xml: (tt0504863, nm0001475)
+Duplicate entry parsed from casts124.xml: (tt0507421, nm9426289)
+Duplicate entry parsed from casts124.xml: (tt0504785, nm0001816)
+Duplicate entry parsed from casts124.xml: (tt0504785, nm9426941)
+Duplicate entry parsed from casts124.xml: (tt0507279, nm0000270)
+Duplicate entry parsed from casts124.xml: (tt0507279, nm9429081)
+Duplicate entry parsed from casts124.xml: (tt0504324, nm9424557)
+Duplicate entry parsed from casts124.xml: (tt0501531, nm9429224)
+Duplicate entry parsed from casts124.xml: (tt0507426, nm9429261)
+Duplicate entry parsed from casts124.xml: (tt0506819, nm0000092)
+Duplicate entry parsed from casts124.xml: (tt0505277, nm9424356)
+Duplicate entry parsed from casts124.xml: (tt0503846, nm0099677)
+Duplicate entry parsed from casts124.xml: (tt0503846, nm9423315)
+Duplicate entry parsed from casts124.xml: (tt0502229, nm9428835)
+Duplicate entry parsed from casts124.xml: (tt0503958, nm0002039)
+Duplicate entry parsed from casts124.xml: (tt0503674, nm9426867)
+Duplicate entry parsed from casts124.xml: (tt0503857, nm9427142)
+Duplicate entry parsed from casts124.xml: (tt0499824, nm9425809)
+Duplicate entry parsed from casts124.xml: (tt0501571, nm9429014)
+Duplicate entry parsed from casts124.xml: (tt0507301, nm9427952)
+Duplicate entry parsed from casts124.xml: (tt0504446, nm0000213)
+Duplicate entry parsed from casts124.xml: (tt0504449, nm9423454)
+Duplicate entry parsed from casts124.xml: (tt0500003, nm9427913)
+Duplicate entry parsed from casts124.xml: (tt0506489, nm0001570)
+Duplicate entry parsed from casts124.xml: (tt0503031, nm9426043)
+Duplicate entry parsed from casts124.xml: (tt0503864, nm0001046)
+Duplicate entry parsed from casts124.xml: (tt0502237, nm9429345)
+Duplicate entry parsed from casts124.xml: (tt0501165, nm0001256)
+Duplicate entry parsed from casts124.xml: (tt0501178, nm9428906)
+Duplicate entry parsed from casts124.xml: (tt0505304, nm9429451)
+Duplicate entry parsed from casts124.xml: (tt0505495, nm0685494)
+Duplicate entry parsed from casts124.xml: (tt0499856, nm9423334)
+Duplicate entry parsed from casts124.xml: (tt0504195, nm0000062)
+Duplicate entry parsed from casts124.xml: (tt0504883, nm0000459)
+Duplicate entry parsed from casts124.xml: (tt0503701, nm9424404)
+Duplicate entry parsed from casts124.xml: (tt0506362, nm0000267)
+Duplicate entry parsed from casts124.xml: (tt0499472, nm9425931)
+Duplicate entry parsed from casts124.xml: (tt0499472, nm9426042)
+Duplicate entry parsed from casts124.xml: (tt0499489, nm9429326)
+Duplicate entry parsed from casts124.xml: (tt0499493, nm9429486)
+Duplicate entry parsed from casts124.xml: (tt0499494, nm9427435)
+Duplicate entry parsed from casts124.xml: (tt0499497, nm9426609)
+Duplicate entry parsed from casts124.xml: (tt0499516, nm0001571)
+Duplicate entry parsed from casts124.xml: (tt0499529, nm9424857)
+Duplicate entry parsed from casts124.xml: (tt0506053, nm0000474)
+Duplicate entry parsed from casts124.xml: (tt0506054, nm0899995)
+Duplicate entry parsed from casts124.xml: (tt0500712, nm9424978)
+Duplicate entry parsed from casts124.xml: (tt0501404, nm9427470)
+Duplicate entry parsed from casts124.xml: (tt0501404, nm9425598)
+Duplicate entry parsed from casts124.xml: (tt0501416, nm0000454)
+Duplicate entry parsed from casts124.xml: (tt0505163, nm9425244)
+Duplicate entry parsed from casts124.xml: (tt0504211, nm9423402)
+Duplicate entry parsed from casts124.xml: (tt0507308, nm9429019)
+Duplicate entry parsed from casts124.xml: (tt0501056, nm9424209)
+Duplicate entry parsed from casts124.xml: (tt0506370, nm0518312)
+Duplicate entry parsed from casts124.xml: (tt0500028, nm9428188)
+Duplicate entry parsed from casts124.xml: (tt0500037, nm9426971)
+Duplicate entry parsed from casts124.xml: (tt0500046, nm9426833)
+Duplicate entry parsed from casts124.xml: (tt0500049, nm9423164)
+Duplicate entry parsed from casts124.xml: (tt0503723, nm9426365)
+Duplicate entry parsed from casts124.xml: (tt0503723, nm9428410)
+Duplicate entry parsed from casts124.xml: (tt0506226, nm9427232)
+Duplicate entry parsed from casts124.xml: (tt0506226, nm9428170)
+Duplicate entry parsed from casts124.xml: (tt0506226, nm9426040)
+Duplicate entry parsed from casts124.xml: (tt0506226, nm0001495)
+Duplicate entry parsed from casts124.xml: (tt0506226, nm0000686)
+Duplicate entry parsed from casts124.xml: (tt0506226, nm9426918)
+Duplicate entry parsed from casts124.xml: (tt0506227, nm0001096)
+Duplicate entry parsed from casts124.xml: (tt0506227, nm0001881)
+Duplicate entry parsed from casts124.xml: (tt0506227, nm9426300)
+Duplicate entry parsed from casts124.xml: (tt0506227, nm9428473)
+Duplicate entry parsed from casts124.xml: (tt0506227, nm9423359)
+Duplicate entry parsed from casts124.xml: (tt0506227, nm9429492)
+Duplicate entry parsed from casts124.xml: (tt0506227, nm9426918)
+Duplicate entry parsed from casts124.xml: (tt0506227, nm9423845)
+Duplicate entry parsed from casts124.xml: (tt0506228, nm0001096)
+Duplicate entry parsed from casts124.xml: (tt0506228, nm9426657)
+Duplicate entry parsed from casts124.xml: (tt0506228, nm0001108)
+Duplicate entry parsed from casts124.xml: (tt0506228, nm9424737)
+Duplicate entry parsed from casts124.xml: (tt0506229, nm0001096)
+Duplicate entry parsed from casts124.xml: (tt0506229, nm9426657)
+Duplicate entry parsed from casts124.xml: (tt0506229, nm0001108)
+Duplicate entry parsed from casts124.xml: (tt0506229, nm0001875)
+Duplicate entry parsed from casts124.xml: (tt0506229, nm0000650)
+Duplicate entry parsed from casts124.xml: (tt0506229, nm9427032)
+Duplicate entry parsed from casts124.xml: (tt0506229, nm9426979)
+Duplicate entry parsed from casts124.xml: (tt0506229, nm9426581)
+Duplicate entry parsed from casts124.xml: (tt0506229, nm0114534)
+Duplicate entry parsed from casts124.xml: (tt0506229, nm9423259)
+Duplicate entry parsed from casts124.xml: (tt0504473, nm0000552)
+Duplicate entry parsed from casts124.xml: (tt0507148, nm0000235)
+Duplicate entry parsed from casts124.xml: (tt0507461, nm0000245)
+Duplicate entry parsed from casts124.xml: (tt0502531, nm9423196)
+Duplicate entry parsed from casts124.xml: (tt0506703, nm0000146)
+Duplicate entry parsed from casts124.xml: (tt0502584, nm9426941)
+Duplicate entry parsed from casts124.xml: (tt0505336, nm0000177)
+Duplicate entry parsed from casts124.xml: (tt0505510, nm0000237)
+Duplicate entry parsed from casts124.xml: (tt0501895, nm9428452)
+Duplicate entry parsed from casts124.xml: (tt0501213, nm9426799)
+Duplicate entry parsed from casts124.xml: (tt0502262, nm9428835)
+Duplicate entry parsed from casts124.xml: (tt0502262, nm9429516)
+Duplicate entry parsed from casts124.xml: (tt0507326, nm9429603)
+Duplicate entry parsed from casts124.xml: (tt0506070, nm9423537)
+Duplicate entry parsed from casts124.xml: (tt0506070, nm9425414)
+Duplicate entry parsed from casts124.xml: (tt0506070, nm0001164)
+Duplicate entry parsed from casts124.xml: (tt0507040, nm0059946)
+Duplicate entry parsed from casts124.xml: (tt0502600, nm9427556)
+Duplicate entry parsed from casts124.xml: (tt0502600, nm0000323)
+Duplicate entry parsed from casts124.xml: (tt0507869, nm0000213)
+Duplicate entry parsed from casts124.xml: (tt0507158, nm9427739)
+Duplicate entry parsed from casts124.xml: (tt0503570, nm9424272)
+Duplicate entry parsed from casts124.xml: (tt0503570, nm9427223)
+Duplicate entry parsed from casts124.xml: (tt0504819, nm9429480)
+Duplicate entry parsed from casts124.xml: (tt0501070, nm9424715)
+Duplicate entry parsed from casts124.xml: (tt0501070, nm9424759)
+Duplicate entry parsed from casts124.xml: (tt0503357, nm9428797)
+Duplicate entry parsed from casts124.xml: (tt0501230, nm9426367)
+Duplicate entry parsed from casts124.xml: (tt0503240, nm9429345)
+Duplicate entry parsed from casts124.xml: (tt0507169, nm0001704)
+Duplicate entry parsed from casts124.xml: (tt0507047, nm0000110)
+Duplicate entry parsed from casts124.xml: (tt0507047, nm0000668)
+Duplicate entry parsed from casts124.xml: (tt0507049, nm0491402)
+Duplicate entry parsed from casts124.xml: (tt0507053, nm9423639)
+Duplicate entry parsed from casts124.xml: (tt0506390, nm9425952)
+Duplicate entry parsed from casts124.xml: (tt0501439, nm9427628)
+Duplicate entry parsed from casts124.xml: (tt0501439, nm9426842)
+Duplicate entry parsed from casts124.xml: (tt0501439, nm9427896)
+Duplicate entry parsed from casts124.xml: (tt0501973, nm9424833)
+Duplicate entry parsed from casts124.xml: (tt0507595, nm0200057)
+Duplicate entry parsed from casts124.xml: (tt0507344, nm0001611)
+Duplicate entry parsed from casts124.xml: (tt0504118, nm9428709)
+Duplicate entry parsed from casts124.xml: (tt0507602, nm0001610)
+Duplicate entry parsed from casts124.xml: (tt0505983, nm0000552)
+Duplicate entry parsed from casts124.xml: (tt0505983, nm0001662)
+Duplicate entry parsed from casts124.xml: (tt0505983, nm9424788)
+Duplicate entry parsed from casts124.xml: (tt0505983, nm0001074)
+Duplicate entry parsed from casts124.xml: (tt0505983, nm0000925)
+Duplicate entry parsed from casts124.xml: (tt0507058, nm0000403)
+Duplicate entry parsed from casts124.xml: (tt0504598, nm9428332)
+Duplicate entry parsed from casts124.xml: (tt0504598, nm0000374)
+Duplicate entry parsed from casts124.xml: (tt0501445, nm9428553)
+Duplicate entry parsed from casts124.xml: (tt0501632, nm0000017)
+Duplicate entry parsed from casts124.xml: (tt0500847, nm9423614)
+Duplicate entry parsed from casts124.xml: (tt0500849, nm9428879)
+Duplicate entry parsed from casts124.xml: (tt0500849, nm9423643)
+Duplicate entry parsed from casts124.xml: (tt0500849, nm9424743)
+Duplicate entry parsed from casts124.xml: (tt0500849, nm9429444)
+Duplicate entry parsed from casts124.xml: (tt0500849, nm9423273)
+Duplicate entry parsed from casts124.xml: (tt0500849, nm9425990)
+Duplicate entry parsed from casts124.xml: (tt0500849, nm9426416)
+Duplicate entry parsed from casts124.xml: (tt0500849, nm9423657)
+Duplicate entry parsed from casts124.xml: (tt0500849, nm9427166)
+Duplicate entry parsed from casts124.xml: (tt0500849, nm9424895)
+Duplicate entry parsed from casts124.xml: (tt0500852, nm9427863)
+Duplicate entry parsed from casts124.xml: (tt0500855, nm9427583)
+Duplicate entry parsed from casts124.xml: (tt0505988, nm0005268)
+Duplicate entry parsed from casts124.xml: (tt0505990, nm0004051)
+Duplicate entry parsed from casts124.xml: (tt0507967, nm0919361)
+Duplicate entry parsed from casts124.xml: (tt0504754, nm9428055)
+Duplicate entry parsed from casts124.xml: (tt0504754, nm9423911)
+Duplicate entry parsed from casts124.xml: (tt0503613, nm9429347)
+Duplicate entry parsed from casts124.xml: (tt0505751, nm9427911)
+Duplicate entry parsed from casts124.xml: (tt0507489, nm0056030)
+Duplicate entry parsed from casts124.xml: (tt0506730, nm0629309)
+Duplicate entry parsed from casts124.xml: (tt0503935, nm9423882)
+Duplicate entry parsed from casts124.xml: (tt0501926, nm9426600)
+Duplicate entry parsed from casts124.xml: (tt0500973, nm9424173)
+Duplicate entry parsed from casts124.xml: (tt0501459, nm9423252)
+Duplicate entry parsed from casts124.xml: (tt0502979, nm9429383)
+Duplicate entry parsed from casts124.xml: (tt0504253, nm0710520)
+Duplicate entry parsed from casts124.xml: (tt0505461, nm9425500)
+Duplicate entry parsed from casts124.xml: (tt0502613, nm9426941)
+Duplicate entry parsed from casts124.xml: (tt0505382, nm0001609)
+Duplicate entry parsed from casts124.xml: (tt0504382, nm9424643)
+Duplicate entry parsed from casts124.xml: (tt0503400, nm0000209)
+Duplicate entry parsed from casts124.xml: (tt0503400, nm9425138)
+Duplicate entry parsed from casts124.xml: (tt0503400, nm0001290)
+Duplicate entry parsed from casts124.xml: (tt0507886, nm0000287)
+Duplicate entry parsed from casts124.xml: (tt0499875, nm9426699)
+Duplicate entry parsed from casts124.xml: (tt0505921, nm9424404)
+Duplicate entry parsed from casts124.xml: (tt0502911, nm9426182)
+Duplicate entry parsed from casts124.xml: (tt0503418, nm9427896)
+Duplicate entry parsed from casts124.xml: (tt0503418, nm9427640)
+Duplicate entry parsed from casts124.xml: (tt0503422, nm9427896)
+Duplicate entry parsed from casts124.xml: (tt0505833, nm0339304)
+Duplicate entry parsed from casts124.xml: (tt0502553, nm9426772)
+Duplicate entry parsed from casts124.xml: (tt0506421, nm0000409)
+Duplicate entry parsed from casts124.xml: (tt0502625, nm9429365)
+Duplicate entry parsed from casts124.xml: (tt0502625, nm9425354)
+Duplicate entry parsed from casts124.xml: (tt0502634, nm9426525)
+Duplicate entry parsed from casts124.xml: (tt0503172, nm9426147)
+Duplicate entry parsed from casts124.xml: (tt0503175, nm0001571)
+Duplicate entry parsed from casts124.xml: (tt0505936, nm0489010)
+Duplicate entry parsed from casts124.xml: (tt0503467, nm9426587)
+Duplicate entry parsed from casts124.xml: (tt0503467, nm9423458)
+Duplicate entry parsed from casts124.xml: (tt0506426, nm0000446)
+Duplicate entry parsed from casts124.xml: (tt0506426, nm0001277)
+Duplicate entry parsed from casts124.xml: (tt0506426, nm9424637)
+Duplicate entry parsed from casts124.xml: (tt0506426, nm9427226)
+Duplicate entry parsed from casts124.xml: (tt0501004, nm9425334)
+Duplicate entry parsed from casts124.xml: (tt0505470, nm0000177)
+Duplicate entry parsed from casts124.xml: (tt0500249, nm9429171)
+Duplicate entry parsed from casts124.xml: (tt0508083, nm0000138)
+Duplicate entry parsed from casts124.xml: (tt0506278, nm9429284)
+Duplicate entry parsed from casts124.xml: (tt0506282, nm0000150)
+Duplicate entry parsed from casts124.xml: (tt0506283, nm0000150)
+Duplicate entry parsed from casts124.xml: (tt0504300, nm9424546)
+Duplicate entry parsed from casts124.xml: (tt0504300, nm9426984)
+Duplicate entry parsed from casts124.xml: (tt0504300, nm0001235)
+Duplicate entry parsed from casts124.xml: (tt0504300, nm0001852)
+Duplicate entry parsed from casts124.xml: (tt0504300, nm0949350)
+Duplicate entry parsed from casts124.xml: (tt0499897, nm9428574)
+Duplicate entry parsed from casts124.xml: (tt0507384, nm0000169)
+Duplicate entry parsed from casts124.xml: (tt0504149, nm9428386)
+Duplicate entry parsed from casts124.xml: (tt0503787, nm9426139)
+Duplicate entry parsed from casts124.xml: (tt0504418, nm9423709)
+Duplicate entry parsed from casts124.xml: (tt0507388, nm0000115)
+Duplicate entry parsed from casts124.xml: (tt0502184, nm9429479)
+Duplicate entry parsed from casts124.xml: (tt0503190, nm9428452)
+Duplicate entry parsed from casts124.xml: (tt0506432, nm0000275)
+Duplicate entry parsed from casts124.xml: (tt0506433, nm0000518)
+Duplicate entry parsed from casts124.xml: (tt0502701, nm9425123)
+Duplicate entry parsed from casts124.xml: (tt0505674, nm9427650)
+Duplicate entry parsed from casts124.xml: (tt0505675, nm0000092)
+Duplicate entry parsed from casts124.xml: (tt0505675, nm9424231)
+Duplicate entry parsed from casts124.xml: (tt0505675, nm0000453)
+Duplicate entry parsed from casts124.xml: (tt0505675, nm9428112)
+Duplicate entry parsed from casts124.xml: (tt0505675, nm9424742)
+Duplicate entry parsed from casts124.xml: (tt0505677, nm9424286)
+Duplicate entry parsed from casts124.xml: (tt0506970, nm0000196)
+Duplicate entry parsed from casts124.xml: (tt0506738, nm9428553)
+Duplicate entry parsed from casts124.xml: (tt0506739, nm0001850)
+Duplicate entry parsed from casts124.xml: (tt0505782, nm9423813)
+Duplicate entry parsed from casts124.xml: (tt0507249, nm9424691)
+Duplicate entry parsed from casts124.xml: (tt0502417, nm9428833)
+Duplicate entry parsed from casts124.xml: (tt0502754, nm9427896)
+Duplicate entry parsed from casts124.xml: (tt0502757, nm9423324)
+Duplicate entry parsed from casts124.xml: (tt0500919, nm9427192)
+Duplicate entry parsed from casts124.xml: (tt0500767, nm9426057)
+Duplicate entry parsed from casts124.xml: (tt0500403, nm9428796)
